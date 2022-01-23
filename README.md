@@ -1,6 +1,6 @@
 # Welcome to Artificialis Open Source!
 
-![](https://github.com/artificialis-ai/start-here-guidelines/blob/main/artificialis.png)
+![](https://i.ibb.co/0tS6RQk/artificialis.png)
 
 Let's get it started!
 
