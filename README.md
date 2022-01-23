@@ -1,5 +1,7 @@
 # Welcome to Artificialis Open Source!
 
+![](https://github.com/artificialis-ai/start-here-guidelines/blob/main/artificialis.png)
+
 Let's get it started!
 
 ### One rule
