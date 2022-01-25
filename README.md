@@ -44,3 +44,6 @@ Read more about pull requests on the [GitHub help pages](https://help.github.com
 
 9. Go on, join a project, start a new one. Don't be shy!
 
+## Disclaimer
+This is an Open Source platform to build, share, have fun and experiment. Every pull request and contribution will be subjected to accurate review from the Management Team: any harmful, dangerous and/or offensive contribution will result in the removal of the user from the organization.
+
