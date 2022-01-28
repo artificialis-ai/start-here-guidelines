@@ -15,7 +15,7 @@ Head over to the #bot channel of Artificialis, and type `.github-add <github-use
 You're basically done! You can now collaborate to existing projects, or start your own. Make sure to let the Management Team know what you're working on!
 
 ## Get started
-1. Checkout a [short tutorial](https://www.youtube.com/watch?v=RGOj5yH7evk) on Git and Github by freeCodeCamp
+1. Checkout a [short tutorial](https://www.youtube.com/watch?v=RGOj5yH7evk) on Git, Github and [contributing to Open Source](https://www.youtube.com/watch?v=yzeVMecydCE) by freeCodeCamp.
 2. Head over to our existing projects or create a new repository with your friends. On the github page of the repository, click on "Fork".
 
 ![fork image](https://help.github.com/assets/images/help/repository/fork_button.jpg)
